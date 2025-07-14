@@ -147,7 +147,7 @@ Deletes an employee by `EmployeeID`.
 
 ---
 
-## 📝 Notes
+##  Notes
 
 * Data is read from and written to `employees.csv` in real-time.
 * CSV headers must match exactly: `EmployeeID,FirstName,LastName,Title,Email,Status`
